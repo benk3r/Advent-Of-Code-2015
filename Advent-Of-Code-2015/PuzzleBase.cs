@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Advent_of_Code
+namespace Advent_Of_Code_2015
 {
     internal class PuzzleBase
     {

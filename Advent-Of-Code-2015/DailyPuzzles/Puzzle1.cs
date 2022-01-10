@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Advent_of_Code.DailyPuzzles
+namespace Advent_Of_Code_2015.DailyPuzzles
 {
     internal class Puzzle1 : PuzzleBase
     {
